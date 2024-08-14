@@ -8,4 +8,4 @@
 
 코드와 코드 실행 결과물을 보고서에 함께 출력합니다.
 
-![alt text](image.png)
+![alt text](./image.png)
