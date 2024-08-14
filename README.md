@@ -10,3 +10,6 @@
 
 ### 이미지 열기
 [image](./image.png)
+
+### 이미지 보기
+![image](image.png)
