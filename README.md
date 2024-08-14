@@ -8,4 +8,10 @@
 
 코드와 코드 실행 결과물을 보고서에 함께 출력합니다.
 
-(image.png)
+from PIL import Image
+
+# 이미지 열기
+img = Image.open('image.png')
+
+# 이미지 출력
+img
